@@ -32,7 +32,7 @@ Depois é só acessar `http://localhost:8080/produtos` no navegador.
 
 ## Preview
 
-![Tela de Produtos](docs/preview.png)
+![Tela de Produtos](docs/LinkedBarAdega.png)
 
 ## Roadmap
 
